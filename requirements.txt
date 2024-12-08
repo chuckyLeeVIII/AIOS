@@ -9,8 +9,8 @@ openai==1.14.3
 pandas==2.2.1
 protobuf==5.26.1
 pydantic==2.6.4
-Requests==2.31.0
+Requests==2.32.2
 streamers==1.3.3
-torch==2.0.1
+torch==2.2.0
 transformers==4.38.1
 wolframalpha==5.0.0
